@@ -1,0 +1,10 @@
+{
+  "name": "Dental Cavity AI",
+  "description": "An advanced dental diagnostic platform using AI for automated cavity detection, severity classification, and diagnostic report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
