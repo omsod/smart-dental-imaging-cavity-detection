@@ -46,8 +46,7 @@ Diagnostic Report
 * Vite
 * HTML/CSS
 
-### Backend / Processing
-
+### Backend / Image Processing Reference
 * Python
 * FastAPI
 * OpenCV
